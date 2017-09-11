@@ -1,0 +1,20 @@
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\DotNet SDK Tutorial.exe.config
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\DotNet SDK Tutorial.exe
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\DotNet SDK Tutorial.pdb
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\VimService25.dll
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\VimService25.XmlSerializers.dll
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\VimService40.dll
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\VimService40.XmlSerializers.dll
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\VimService41.dll
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\VimService41.XmlSerializers.dll
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\VimService50.dll
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\VimService50.XmlSerializers.dll
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\VimService51.dll
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\VimService51.XmlSerializers.dll
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\bin\Debug\VMware.Vim.dll
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\obj\Debug\DotNet SDK Tutorial.csprojResolveAssemblyReference.cache
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\obj\Debug\DotNet_SDK_Tutorial.Form1.resources
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\obj\Debug\DotNet_SDK_Tutorial.Properties.Resources.resources
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\obj\Debug\DotNet SDK Tutorial.csproj.GenerateResource.Cache
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\obj\Debug\DotNet SDK Tutorial.exe
+c:\users\ej54mjh\documents\visual studio 2017\Projects\DotNet SDK Tutorial\DotNet SDK Tutorial\obj\Debug\DotNet SDK Tutorial.pdb
